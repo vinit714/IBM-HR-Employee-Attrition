@@ -25,7 +25,7 @@ Based on the results of various models applied to the IBM HR Employee Attrition 
 
 1. Random Forest with normal data achieved the highest accuracy at 87.22%, though it had a relatively low Kappa score (0.26) and ROC AUC (0.59), indicating strong predictive ability but modest agreement between predictions and true values.
 
-2. XGBoost with SMOTE data demonstrated strong performance, achieving 86.41% accuracy, a high ROC AUC (0.68), and the highest Kappa score (0.40), showing that it handled class imbalance well.
+2. XGBoost with SMOTE data demonstrated strong performance, achieving 86.41% accuracy, a high ROC AUC (0.68), and highest Kappa score (0.40), showing that it handled class imbalance well.
 
 3. ANN (Artificial Neural Network) achieved a solid overall performance with 86.68% accuracy, a Kappa score of 0.36, and ROC AUC of 0.65, making it a competitive option.
 
